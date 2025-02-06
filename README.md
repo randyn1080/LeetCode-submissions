@@ -125,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/randyn1080/LeetCode-submissions/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/randyn1080/LeetCode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
