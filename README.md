@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/randyn1080/LeetCode-submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/randyn1080/LeetCode-submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/randyn1080/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/randyn1080/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
