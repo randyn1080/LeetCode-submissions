@@ -103,4 +103,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/randyn1080/LeetCode-submissions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/randyn1080/LeetCode-submissions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/randyn1080/LeetCode-submissions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/randyn1080/LeetCode-submissions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
