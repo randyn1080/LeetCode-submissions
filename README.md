@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/randyn1080/LeetCode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
