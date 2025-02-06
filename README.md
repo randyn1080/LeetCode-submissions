@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/randyn1080/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/randyn1080/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/randyn1080/LeetCode-submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/randyn1080/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/randyn1080/LeetCode-submissions/tree/master/0290-word-pattern) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/randyn1080/LeetCode-submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
