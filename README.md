@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/randyn1080/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/randyn1080/LeetCode-submissions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/randyn1080/LeetCode-submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/randyn1080/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
