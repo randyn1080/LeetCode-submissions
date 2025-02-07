@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/randyn1080/LeetCode-submissions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/randyn1080/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/randyn1080/LeetCode-submissions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
