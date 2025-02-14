@@ -1,35 +1,33 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int[] prefixArr = new int[nums.length-1];
-        int[] suffixArr = new int[nums.length-1];
+        int[] prefixArr = new int[nums.length];
         int currentPrefix = 1;
-        int currentSuffix = 1;
-        for (int i = 0, j = suffixArr.length-1; i < suffixArr.length; i++, j--) {
-            // i is our prefix iterator
-            // j is our suffix iterator
+        prefixArr[0] = 1;
+        for (int i = 0; i < prefixArr.length-1; i++) {
             currentPrefix *= nums[i];
-            currentSuffix *= nums[j+1];
-            prefixArr[i] = currentPrefix;
-            suffixArr[j] = currentSuffix;
+            prefixArr[i+1] = currentPrefix;
+            
         }
-        // prefix and suffix arr have been properly filled..
-        // now create a loop to return the return array
-        int[] returnArr = new int[nums.length];
-        int prefixId = 0;
-        int suffixId = 0;
-        for (int i = 0; i < returnArr.length; i++) {
-            // multiply the prefix and suffix arr for nums
-            // before and after every index
-            // if index is 0 or last one, edge cases
-            if (i == 0) {
-                returnArr[i] = suffixArr[suffixId++];
-            } else if (i == returnArr.length-1) {
-                returnArr[i] = prefixArr[prefixId];
-            } else {
-                int temp = prefixArr[prefixId++] * suffixArr[suffixId++];
-                returnArr[i] = temp;
-            }
+        System.out.println("this is prefixArr");
+        for (int i : prefixArr) {
+            System.out.println(i);
         }
-        return returnArr;
+        // we now have [1, 1, 2, 6]
+        // we need     [24, 12, 8, 6]
+        // from calculating the suffix starting at the end of num
+        // is going to be 4, 12, 24
+        // so begin at index 1 from last (nums.length-2)
+        // and find the suffix product
+        // then make that position =
+        // suffix product * current position
+        int suffixProduct = 1;
+        int numsId = nums.length-1;
+        for (int i = nums.length-2; i >= 0; i--) {
+            // calculate suffix
+            suffixProduct *= nums[numsId--];
+            prefixArr[i] *= suffixProduct;
+        }
+
+        return prefixArr;
     }
 }
