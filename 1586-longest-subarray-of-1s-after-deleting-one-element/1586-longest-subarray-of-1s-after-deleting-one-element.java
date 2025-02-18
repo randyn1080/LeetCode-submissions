@@ -1,7 +1,6 @@
 class Solution {
     public int longestSubarray(int[] nums) {
         // sliding window
-        int k = 1;
         int leftWall = 0;
         int rightWall = 0;
         int onesCount = 0;
@@ -9,7 +8,7 @@ class Solution {
             // first, add 1 if a 1 exists
             onesCount += nums[rightWall];
             // then if the onescount + k is >= our window length
-            if ( (onesCount + k) >= (rightWall - leftWall + 1)) {
+            if ( (onesCount + 1) >= (rightWall - leftWall + 1)) {
                 // increase window length
                 rightWall++;
             } else { // else the sumOfWindow+k is < windowLenght
