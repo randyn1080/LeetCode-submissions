@@ -20,6 +20,7 @@ class Solution {
             }
         }
         windowLength--;
-        return windowLength;
+        //return windowLength;
+        return rightWall - leftWall;
     }
 }
