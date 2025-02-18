@@ -3,15 +3,13 @@ class Solution {
         int leftWall = 0;
         int rightWall = 0;
         int sumOfWindow = 0;
-        int windowLength = 1; // change this?
         while (rightWall < nums.length) {
             // first, increment the sum of the current window
             sumOfWindow += nums[rightWall];
             // then if the sum + k is >= our window length
-            if ( (sumOfWindow + k) >= windowLength) {
+            if ( (sumOfWindow + k) >= (rightWall - leftWall + 1)) {
                 // increase window length
                 rightWall++;
-                windowLength++;
             } else { // else the sumOfWindow+k is < windowLengght
                 // move entire window right, recalculating sumOfWindow
                 // subtract the leftWall val from sumOfWindow
@@ -19,8 +17,6 @@ class Solution {
                 rightWall++;
             }
         }
-        windowLength--;
-        //return windowLength;
         return rightWall - leftWall;
     }
 }
