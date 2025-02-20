@@ -10,20 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        //     [1 -> 2 -> 3 ->]
-        // to
-        //   [<- 1 <- 2 <- 3]
-        //    prev, curr, next
-        // iterate through setting curr.next to prev
-        // saving curr.next for following iteration
-        ListNode prev = null;
-        ListNode curr = head;
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        // recursively
+        // base case: if head is null 
+        if (head == null || head.next == null) {
+            return head;
         }
-        return prev;
+
+        ListNode prev = null;
+        ListNode next = reverseList(head.next);
+        head.next.next = head;
+        head.next = prev;
+
+        return next;
     }
 }
