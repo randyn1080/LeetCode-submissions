@@ -17,10 +17,10 @@ class Solution {
         }
 
         ListNode prev = null;
-        ListNode next = reverseList(head.next);
+        ListNode newHead = reverseList(head.next);
         head.next.next = head;
         head.next = prev;
 
-        return next;
+        return newHead;
     }
 }
