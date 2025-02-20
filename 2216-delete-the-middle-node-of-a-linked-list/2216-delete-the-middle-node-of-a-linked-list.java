@@ -20,7 +20,6 @@ class Solution {
             return head;
         }
             
-
         ListNode babyTort = null;;
         ListNode tort = head;
         ListNode hare = head;
