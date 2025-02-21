@@ -10,19 +10,22 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if (head == null || head.next == null || head.next.next == null) {
+        if (head == null      || 
+            head.next == null || 
+            head.next.next == null) {
             return head;
         }
         ListNode evenHead = head.next;
         ListNode curr = head;
         ListNode nxt = head.next;
         boolean evenSwitch = true;
-        do {
+        
+        while (nxt.next != null) {
             curr.next = curr.next.next;
             curr = nxt;
             nxt = nxt.next;
             evenSwitch = !evenSwitch;
-        } while (nxt.next != null);
+        }
 
         if (evenSwitch) {
             curr.next = evenHead;
