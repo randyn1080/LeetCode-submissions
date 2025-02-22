@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/randyn1080/LeetCode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/randyn1080/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/randyn1080/LeetCode-submissions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/randyn1080/LeetCode-submissions/tree/master/0328-odd-even-linked-list) |
@@ -222,5 +223,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/randyn1080/LeetCode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/randyn1080/LeetCode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
