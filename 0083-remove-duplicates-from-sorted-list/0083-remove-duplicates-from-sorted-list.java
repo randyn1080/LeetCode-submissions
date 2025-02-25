@@ -14,13 +14,10 @@ class Solution {
         while (iter != null && iter.next != null) {
             if (iter.val == iter.next.val) {
                 // remove node
-                ListNode temp = iter.next;
                 iter.next = iter.next.next;
-                temp.next = null;
             } else {
                 iter = iter.next;
             }
-            
         }
         return head;
     }
