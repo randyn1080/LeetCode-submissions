@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        // edge case 1 node;
         if (head.next == null && n == 1) {
             head = null;
             return head;
@@ -17,29 +18,27 @@ class Solution {
         ListNode lead = head;
         ListNode tail = head;
         ListNode tailTail = head;
-        // seperate by n
+        // seperate lead from tail by n
         for (int i = 0; i < n; i++) {
             lead = lead.next;
         }
-        // then iterate both equally until last node
-        boolean iterated = false;
+        // if lead is null before the loop, we are deleting
+        // the first node.
+        if (lead == null) {
+            head = head.next;
+            return head;
+        }
+        // else, position tail and tailTail at appropriate
+        // nodes
         while (lead != null) {
             lead = lead.next;
             tailTail = tail;
             tail = tail.next;
-            iterated = true;
         }
-        // delete node at n, which is currently at tail
-        // if we never entered the second while loop, then we
-        // are deleting the first node.
-        if (iterated == false) {
-            head = head.next;
-        } else {
-            tailTail.next = tail.next;
-            tail.next = null;
-        }
+        // delete node at n 
+        tailTail.next = tail.next;
+        tail.next = null;
         
-
         return head;
     }
 }
