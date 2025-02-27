@@ -23,6 +23,7 @@ class Solution {
         return head;
     }
 
+    //stolen from question 21. merge two lists
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null) {
             return list2;
