@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/randyn1080/LeetCode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/randyn1080/LeetCode-submissions/tree/master/1833-find-the-highest-altitude) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/randyn1080/LeetCode-submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/randyn1080/LeetCode-submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/randyn1080/LeetCode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/randyn1080/LeetCode-submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/randyn1080/LeetCode-submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
