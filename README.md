@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/randyn1080/LeetCode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/randyn1080/LeetCode-submissions/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/2058-concatenation-of-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/randyn1080/LeetCode-submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
@@ -269,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/randyn1080/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
