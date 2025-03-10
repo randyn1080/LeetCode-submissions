@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/randyn1080/LeetCode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/randyn1080/LeetCode-submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/randyn1080/LeetCode-submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/randyn1080/LeetCode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/randyn1080/LeetCode-submissions/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/randyn1080/LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/randyn1080/LeetCode-submissions/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/randyn1080/LeetCode-submissions/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/1319-unique-number-of-occurrences) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/randyn1080/LeetCode-submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2491-smallest-even-multiple](https://github.com/randyn1080/LeetCode-submissions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/randyn1080/LeetCode-submissions/tree/master/2556-convert-the-temperature) |
@@ -279,4 +282,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/randyn1080/LeetCode-submissions/tree/master/2491-smallest-even-multiple) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
