@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/randyn1080/LeetCode-submissions/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
