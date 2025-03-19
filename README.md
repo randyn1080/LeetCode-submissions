@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/randyn1080/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2491-smallest-even-multiple](https://github.com/randyn1080/LeetCode-submissions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/randyn1080/LeetCode-submissions/tree/master/2556-convert-the-temperature) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/randyn1080/LeetCode-submissions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/randyn1080/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/randyn1080/LeetCode-submissions/tree/master/0443-string-compression) |
 | [0782-jewels-and-stones](https://github.com/randyn1080/LeetCode-submissions/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/randyn1080/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
