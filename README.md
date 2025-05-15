@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/randyn1080/LeetCode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/randyn1080/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/randyn1080/LeetCode-submissions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/randyn1080/LeetCode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/randyn1080/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/randyn1080/LeetCode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/randyn1080/LeetCode-submissions/tree/master/0242-valid-anagram) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/randyn1080/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/randyn1080/LeetCode-submissions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/randyn1080/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/randyn1080/LeetCode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/randyn1080/LeetCode-submissions/tree/master/0202-happy-number) |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/randyn1080/LeetCode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/randyn1080/LeetCode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/randyn1080/LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/randyn1080/LeetCode-submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/randyn1080/LeetCode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0151-reverse-words-in-a-string) |
