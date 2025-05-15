@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/randyn1080/LeetCode-submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/randyn1080/LeetCode-submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/randyn1080/LeetCode-submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/randyn1080/LeetCode-submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/randyn1080/LeetCode-submissions/tree/master/0383-ransom-note) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/randyn1080/LeetCode-submissions/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/randyn1080/LeetCode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/randyn1080/LeetCode-submissions/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/randyn1080/LeetCode-submissions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3379-score-of-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
