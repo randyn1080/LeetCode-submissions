@@ -1,18 +1,21 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        // first we can sort the array which will give us an easier data set to work with
-        Arrays.sort(strs);
+        // edge case
         if (strs == null || strs.length == 0 || strs[0].isEmpty())
             return "";
-        StringBuilder sb = new StringBuilder();
-        // now that strs array is sorted, the strings are organized lexigraphically 
-        // so we can logically compare each starting with the first to the last, 
-        // first will be the shortest string.
 
+        // stringbuilder for building the output
+        StringBuilder sb = new StringBuilder();
+
+        // find the shortest string
+        int shortestLength = Integer.MAX_VALUE;
+        for (String s : strs) {
+            shortestLength = Math.min(s.length(), shortestLength);
+        }
         // compare the first letter.. if it's the same for each, add it to the result
         // continue doing this for each position until we reach the end of the first word OR
         // we run into a letter that isnt the same.
-        for (int i = 0; i < strs[0].length(); i++) {
+        for (int i = 0; i < shortestLength; i++) {
             // hold the current iteration of strs[0] letter in letter variable
             char letter = strs[0].charAt(i);
 
