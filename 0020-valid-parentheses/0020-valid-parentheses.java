@@ -2,7 +2,7 @@ class Solution {
     public boolean isValid(String s) {
         Deque<Character> charStack = new ArrayDeque<>();
 
-        for (Character c : s.toCharArray()){
+        for (char c : s.toCharArray()){
             if (charStack.isEmpty()) {
                 // push current onto it
                 charStack.push(c);
@@ -10,13 +10,11 @@ class Solution {
                 // if it's not empty, but c is an open bracket, we can push
                 charStack.push(c);
             } else { // c is a closing bracket, the top must be it's complement.
-                char topOfStack = charStack.peek();
-                if (c == '}' && topOfStack == '{' ||
-                    c == ']' && topOfStack == '[' ||
-                    c == ')' && topOfStack == '(') {
-                    
-                    charStack.pop();
-                } else {
+                char topOfStack = charStack.pop();
+                if (c == '}' && topOfStack != '{' ||
+                    c == ']' && topOfStack != '[' ||
+                    c == ')' && topOfStack != '(') {
+                     
                     return false;
                 }
             }
