@@ -2,6 +2,8 @@ class Solution {
     public String longestCommonPrefix(String[] strs) {
         // first we can sort the array which will give us an easier data set to work with
         Arrays.sort(strs);
+        if (strs == null || strs.length == 0 || strs[0].isEmpty())
+            return "";
         StringBuilder sb = new StringBuilder();
         // now that strs array is sorted, the strings are organized lexigraphically 
         // so we can logically compare each starting with the first to the last, 
@@ -22,7 +24,6 @@ class Solution {
             }
             sb.append(letter);
         }
-
         return sb.toString();
     }
 }
