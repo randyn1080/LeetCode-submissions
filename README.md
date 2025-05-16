@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/randyn1080/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/randyn1080/LeetCode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/randyn1080/LeetCode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/randyn1080/LeetCode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/randyn1080/LeetCode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -337,5 +339,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/randyn1080/LeetCode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/randyn1080/LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
