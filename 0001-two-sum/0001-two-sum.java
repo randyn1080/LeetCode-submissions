@@ -1,19 +1,29 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] ans = new int[2];
+        int[] output = new int[2];
 
-        // make a map with the num being key and id of num being value
-        Map<Integer, Integer> numsMap = new HashMap<Integer, Integer>();
+        // create a map with the key: num and val: index
+        Map<Integer, Integer> indexMap = new HashMap<>();
+
         for (int i = 0; i < nums.length; i++) {
-            int temp = nums[i]; // 3
-            int diff = target - temp; // 3
-            if (numsMap.containsKey(diff)) {
-                return new int[] {numsMap.get(diff), i};
+
+            int curr = nums[i];
+
+            // number we need to create target
+            int difference = target - curr;
+            // search the map for difference.. if it exists, add the index of curr and of difference to output and return
+            // them as our answer
+            if (indexMap.containsKey(difference)) {
+                output[0] = i;
+                output[1] = indexMap.get(difference);
+                break;
             }
-            numsMap.put(nums[i], i);
+            if (!indexMap.containsKey(curr)) { // do we need to update the index if the map already contains nums[i]?
+                indexMap.put(curr, i);
+            }
+            
         }
 
-        return ans;
-    
+        return output;
     }
 }
