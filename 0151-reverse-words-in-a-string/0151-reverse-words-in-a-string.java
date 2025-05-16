@@ -1,18 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-        StringBuilder finalString = new StringBuilder();
-        String[] sArr = s.trim().split(" ");
+        // first, create an array with the words
+        String[] strArr = s.trim().split(" ");
 
-        for (int i = sArr.length-1; i > 0; i--) {
-            if (!sArr[i].equals("")) {
-                finalString.append(sArr[i]);
-                finalString.append(" ");
-            }
-        }
-        if (!sArr[0].equals("")) {
-            finalString.append(sArr[0]);
+        // Now strArr has our words, iterate through it backwards adding each word to a SB
+        StringBuilder sb = new StringBuilder();
+        for (int i = strArr.length-1; i >= 0; i--) {
+            if (!strArr[i].equals(""))
+                sb.append(strArr[i] + " ");
         }
 
-        return finalString.toString();
+        return sb.toString().trim();
     }
 }
