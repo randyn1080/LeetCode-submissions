@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/randyn1080/LeetCode-submissions/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/randyn1080/LeetCode-submissions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/randyn1080/LeetCode-submissions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/randyn1080/LeetCode-submissions/tree/master/0182-duplicate-emails) |
