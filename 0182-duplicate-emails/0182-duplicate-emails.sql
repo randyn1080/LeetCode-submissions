@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
 select email as Email
 from Person
-group by 1
+group by email
 having count(*) > 1
